@@ -1,0 +1,9 @@
+.name{
+    font-size: large;
+    font-weight: 700;
+}
+.experience_card{
+    background-color: rgb(240, 207, 123);
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
