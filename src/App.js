@@ -7,7 +7,7 @@ import More from "./More/More";
 import CV from "./CV/CV";
 import { useState } from "react";
 
-const { hero, education, experience, languages, habilities, volunteer } = CV;
+const { hero, education, experience, languages, habilities, volunteer, idiomas } = CV;
 
 function App() {
   const [showEducation, setShowEducation] = useState(true);
@@ -21,6 +21,7 @@ function App() {
       <More languages={languages}
         habilities={habilities}
         volunteer={volunteer}
+        idiomas={idiomas}
       />
       <button
         className="botones"

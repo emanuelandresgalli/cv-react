@@ -10,16 +10,16 @@ export const CV = {
       gitHub: "https://github.com/emanuelandresgalli",
       aboutMe: [
         {
-          info: "🤖 Cuento con 15 años de experiencia en atención al cliente, .",
+          info: " Cuento con 15 años de experiencia en atención al cliente, .",
         },
         {
-          info1: "🔩 me caracterizo por mi dedicación y compromiso.",
+          info1: " me caracterizo por mi dedicación y compromiso.",
         },
         {
-          info2: "🦾 Soy una persona proactiva y autoexigente.",
+          info2: " Soy una persona proactiva y autoexigente.",
         },
         {
-          info3: "🔩 valoro el trabajo en equipo y asumir objetivos y responsabilidades en conjunto.",
+          info3: " valoro el trabajo en equipo y asumir objetivos y responsabilidades en conjunto.",
         },
       ],
     },
@@ -57,6 +57,12 @@ export const CV = {
       wrlevel: "Uso Profesional",
       splevel: "Uso Profesional",
     },
+    idiomas: {
+      language: "Español",
+      wrlevel: "Nativo",
+      splevel: "Uso Profesional",
+    },
+    
     habilities: [
       "HTML",
       "CSS",
