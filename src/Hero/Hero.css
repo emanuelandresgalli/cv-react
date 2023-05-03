@@ -10,7 +10,7 @@
   text-align: center;
   border-radius: 12px;
   background-color: rgba(11, 67, 117, 0.241);
-  height: 40vh;
+  height: 50vh;
 }
 img {
   width: 200px;
@@ -30,4 +30,9 @@ a {
   width: 40px;
   margin: 0px;
   margin-bottom: -10px;
+}
+.linkedin{
+  display: flex;
+  justify-content: center;
+  margin: 0px;
 }
