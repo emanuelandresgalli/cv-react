@@ -11,8 +11,8 @@ const Hero = ({hero}) => {
       <h2>
         {hero.name} {hero.adress}
       </h2>
-        <p>🗺️{hero.city} </p>
-        <p>🗓️{hero.birthDate}</p>
+        <p> <img className="iconoss" src="./imagenes/icons8-sagrada-familia-64.png" alt=""/> {hero.city} </p>
+        <p> <img className="iconoss" src="./imagenes/icons8-calendario-64.png" alt=""/> {hero.birthDate}</p>
         <p>
           
           <a href={"mailto:" + hero.email}> <img className="iconos" src="./imagenes/icons8-correo-64.png" alt=""/>
