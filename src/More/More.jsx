@@ -18,11 +18,11 @@ const More = ({languages, habilities, volunteer, idiomas }) => {
             <p className="negrita"> <img className="iconos" src="./imagenes/icons8-spain-96.png" alt="" /> {idiomas.language} </p>
             <p> ({idiomas.wrlevel}) </p>
         </div>
-        <div>
+        {/* <div className="volunteer_class">
             <p className="negrita">{volunteer[0].name}</p>
             <p >{volunteer[0].where}</p>
             <p >{volunteer[0].description}</p>
-        </div>
+        </div> */}
         </div>
     )
 }

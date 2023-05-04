@@ -4,6 +4,7 @@ import "../Education/Education.css";
 const Education = ({ education }) => {
   return (
     <div>
+      <div className="contenedor_education" >
       <div className="education_card">
         {education.map((item)=>{
           return (
@@ -15,7 +16,7 @@ const Education = ({ education }) => {
           );
         })}
       </div>
-      
+      </div>
     </div>
     );
 };

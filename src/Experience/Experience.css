@@ -3,8 +3,11 @@
     font-weight: 700;
 }
 .experience_card{
-    background-color: rgb(240, 207, 123);
-    padding-top: 30px;
-    padding-bottom: 50px;
+    background-color: rgb(241, 216, 152);
+    padding-top: 40px;
+    padding-bottom: 40px;
     margin-top: 20px;
+    width: 50vw;
+    border-radius: 5px;
+    border: solid 2px;
 }

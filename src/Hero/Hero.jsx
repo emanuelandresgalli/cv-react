@@ -3,9 +3,10 @@ import "../Hero/Hero.css";
 
 const Hero = ({hero}) => {
     return (
+      
         <div className="Hero">
-
-            <img src={hero.image} alt="" />
+          
+            <img className="foto" src={hero.image} alt="" />
 
             <div className="card">
       <h2>

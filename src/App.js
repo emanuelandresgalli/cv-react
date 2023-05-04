@@ -14,16 +14,7 @@ function App() {
 
   return (
     <div className="App">
-      <Hero hero={hero} />
-      <About hero={hero.aboutMe}/>
-      {/* <Education education={education} />
-      <Experience experience={experience}/> */}
-      <More languages={languages}
-        habilities={habilities}
-        volunteer={volunteer}
-        idiomas={idiomas}
-      />
-      <button
+       <button
         className="botones"
         onClick={() => setShowEducation(true)}
       >
@@ -42,6 +33,16 @@ function App() {
           <Experience experience={experience} />
         )}
       </div>
+      <Hero hero={hero} />
+      <About hero={hero.aboutMe}/>
+      {/* <Education education={education} />
+      <Experience experience={experience}/> */}
+      <More languages={languages}
+        habilities={habilities}
+        volunteer={volunteer}
+        idiomas={idiomas}
+      />
+     
     </div>
   );
 }

@@ -4,8 +4,8 @@ export const CV = {
       adress: "Galli",
       city: "Barcelona / Cataluña",
       email: "emanuelandresgalli@gmail.com",
-      birthDate: "01/01/1900",
-      phone: "(+34) 767333841",
+      birthDate: "25/08/1985",
+      phone: "(+34) 654212710",
       image: "https://media.licdn.com/dms/image/C4E03AQGRZ5irE3JTtA/profile-displayphoto-shrink_800_800/0/1606830616266?e=2147483647&v=beta&t=TY_358HBUgwvJg1zEntk8am5Bhzm8DhaWCWAlXzBT-4",
       gitHub: "https://github.com/emanuelandresgalli",
       aboutMe: [

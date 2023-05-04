@@ -1,6 +1,15 @@
 .education_card{
-    background-color: rgb(178, 116, 236);
-    height: 50vh;
-    padding-top: 50px;
+    background-color: rgb(202, 160, 242);
+    padding-top: 40px;
+    padding-bottom: 40px;
     margin-top: 20px;
+    width: 50vw;
+    border-radius: 5px;
+    border: solid 2px;
+}
+.contenedor_education{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    
 }

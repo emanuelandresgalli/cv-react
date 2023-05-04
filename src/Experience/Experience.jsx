@@ -4,6 +4,7 @@ import "../Experience/Experience.css";
 const Experience = ({ experience }) => {
     return (
       <div>
+        <div className="contenedor_education" >
         <div className="experience_card">
           {experience.map((item)=>{
             return (
@@ -16,7 +17,7 @@ const Experience = ({ experience }) => {
             );
           })}
         </div>
-        
+        </div>
       </div>
       );
   };
