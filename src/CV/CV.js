@@ -6,7 +6,7 @@ export const CV = {
       email: "emanuelandresgalli@gmail.com",
       birthDate: "25/08/1985",
       phone: "(+34) 654212710",
-      image: "https://media.licdn.com/dms/image/C4E03AQGRZ5irE3JTtA/profile-displayphoto-shrink_800_800/0/1606830616266?e=2147483647&v=beta&t=TY_358HBUgwvJg1zEntk8am5Bhzm8DhaWCWAlXzBT-4",
+      image: "https://media.licdn.com/dms/image/D4E03AQHN6GSEwV8ZRA/profile-displayphoto-shrink_800_800/0/1684433157865?e=1689811200&v=beta&t=aLfog9b3bxJ_AjrB4PNG3dcNh1YEyj5jSZfAYYlzK_E",
       gitHub: "https://github.com/emanuelandresgalli",
       aboutMe: [
         {
